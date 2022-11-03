@@ -1,0 +1,17 @@
+.row{
+    display: flex;
+}
+.item{
+    height: 50px;
+    width: 50px;
+    border: 1px solid #707070;
+    margin: 1px;
+}
+.snake{
+    background: #1abc9c;
+    border: 1px solid #1abc9c;
+}
+.apple{
+    background-color: orange;
+    border: 1px solid orange;
+}
